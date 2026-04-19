@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Marvel Cards UI
 
 A Marvel-inspired card UI built using HTML and CSS featuring Hulk, Spider-Man, and Deadpool.
@@ -22,7 +21,4 @@ A Marvel-inspired card UI built using HTML and CSS featuring Hulk, Spider-Man, a
 
 ## 📌 Author
 Your Name : Rahul Kunainta
-=======
-# marvel-cards-ui
-A Marvel-inspired card UI built with HTML and CSS, featuring Hulk, Spider-Man, and Deadpool. Demonstrates flexbox layout, positioning, and modern design techniques.
->>>>>>> e16d6ad8c910cb434128a4d30b5e013a1dfdacf6
+
