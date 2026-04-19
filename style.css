@@ -116,18 +116,21 @@
         box-shadow: 10px 10px 20px black;
         z-index: -1;
     }
-    .spider-picture{
+     .spider-picture{
         height:80%;
         border: 2px solid black;
         width: 230px;
         background-color: rgb(48, 166, 205);
         z-index: -1;
+        position:relative
+          
     }
+
     .spider-picture img{
         position: absolute;
-        right: 817px;
-
-
+        top:1px;
+        right:-4px;
+    
     }
     .spider-desc{
         
